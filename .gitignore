@@ -1,0 +1,11 @@
+*.exe
+docs
+ctags-*
+*.txt
+tmp
+include
+*.*~*
+.dragonruby
+*dragonruby*
+builds/**
+samples
